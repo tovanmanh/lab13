@@ -1,0 +1,29 @@
+.bg-img1{
+    background-color: #000;
+    background-size: cover;
+    height: 500px;
+    background-image: url(https://thumbs.dreamstime.com/b/stars-full-moon-over-sea-night-fantastic-clouds-starry-sky-174119340.jpg);
+}
+.bg-img2{
+    background-color: #000;
+    background-size: cover;
+    height: 500px;
+    background-image: url(https://www.shutterstock.com/image-photo/fantasy-night-palm-leaves-full-260nw-1830931325.jpg);
+}
+.bg-img3{
+    background-color: #000;
+    background-size: cover;
+    height: 500px;
+    background-image: url(https://c8.alamy.com/zooms/9/a858ae4a5623432f92ef41d292d3a45e/wa0p3k.jpg);
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-contact div{
+    display: inline-block;
+}
+.cham{
+    padding: 1px;
+    border-radius: 50%;
+}
